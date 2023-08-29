@@ -1,9 +1,9 @@
 # envconfig
 
-[![Build Status](https://travis-ci.org/kelseyhightower/envconfig.svg)](https://travis-ci.org/kelseyhightower/envconfig)
+Fork of https://github.com/kelseyhightower/envconfig which supports custom `Lookup` functions to use e.g. the _FILE convention.
 
 ```Go
-import "github.com/kelseyhightower/envconfig"
+import "github.com/offen/envconfig"
 ```
 
 ## Documentation
